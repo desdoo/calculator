@@ -83,13 +83,3 @@ function changeValues(result) {
     firstValue = result
     secondValue = ''
 }
-
-//1. when zahlen gedrückt werden füge sie zu einem array hinzu und zeige sie im display an
-
-// 2. wenn eines der operatoren gedrückt wird erstelle ein neues grid und mache dasselbe wie bei 1. +  setze den operator zwischen die arrays
-
-// 3. wenn "=" gedrückt wird soll der array berechnet werden
-
-// 4. wenn clear gedrückt wird dann wird der aktive array gelöscht
-
-// 5. wenn delete gedrückt wird, dann wird alle gelöscht
